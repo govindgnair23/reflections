@@ -3,3 +3,5 @@ I got married in 2018
 Staging area is a loading dock before a change is shipped.
 
 Branches help to carry put different experiments/bug fixes or new features without breaking the main code in prod
+
+Merging branches helps developers to work on different features and then combine the features
