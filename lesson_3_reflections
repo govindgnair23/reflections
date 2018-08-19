@@ -1,3 +1,9 @@
 I am now learning to work with github
 
 Pulling and pushing changes mnaually may be better than doing it automatically
+
+fork is done entirely on github
+
+clone pulls a repository from github to your local machine
+
+branch is a local git command use to create a new branch of work
