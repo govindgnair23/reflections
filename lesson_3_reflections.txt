@@ -7,3 +7,5 @@ fork is done entirely on github
 clone pulls a repository from github to your local machine
 
 branch is a local git command use to create a new branch of work
+
+I am making more chages to the github version of this file
